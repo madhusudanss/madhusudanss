@@ -1,16 +1,46 @@
-## Hi there 👋
+# Madhusudan S S
 
-<!--
-**madhusudanss/madhusudanss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student · Developer · Lifelong Learner
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering student with a growing interest in
+software development, data structures, and the systems that power modern
+applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My approach to learning is simple: understand the fundamentals, build with
+them, examine what fails, and refine the solution.
+
+---
+
+## About
+
+I am currently developing my foundation across two complementary areas:
+
+- **Software Development** — building web applications and understanding
+  the architecture behind them.
+- **Computer Science Fundamentals** — strengthening my knowledge of C++,
+  Data Structures, Algorithms, and problem solving.
+
+Rather than treating technologies as isolated tools, I am interested in
+understanding how they fit together to create reliable and maintainable
+software.
+
+---
+
+## Technical Interests
+
+```text
+Programming
+    C · C++
+
+Computer Science
+    Data Structures · Algorithms · Problem Solving
+
+Web Development
+    HTML · CSS · JavaScript
+    Node.js · Express.js · EJS
+
+Databases
+    SQL · Relational Database Concepts
+
+Developer Tools
+    Git · GitHub · Visual Studio Code
